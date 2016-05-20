@@ -17,6 +17,7 @@
                 },
                 invalid: function(element, messages) {
                     element.style.border = '6px solid red';
+                    alert(messages.join(','));
                 }
             });
 
