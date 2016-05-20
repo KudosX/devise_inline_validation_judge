@@ -21,6 +21,7 @@ gem 'omniauth-instagram'
 gem 'devise'
 gem 'gibbon'
 gem 'quiet_assets'
+gem 'judge'
 group :development do
   gem 'web-console'
   gem 'spring'
